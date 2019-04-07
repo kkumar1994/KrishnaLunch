@@ -1,17 +1,17 @@
 {
-    "week": "March 31st",
+    "week": "April 7th week",
     "items": [
         {
-            "1": "Rice",
-            "2": " Dhaal Makhini (Whole black Indian lentils and kidney beans)",
-            "3": "Aloo Gobi (Seasoned cauliflower and potatoes) ",
-            "4": "Walnut Vanilla Halwa (Dessert made of cream of wheat and walnuts)"
+            "1": "Spiced Vegetable Rice",
+            "2": "Spicy Black Chickpeas",
+            "3": "Seasoned Broccoli and Paneer",
+            "4": "Strawberry Halwa (Dessert made of cream of wheat and strawberries)"
         },
         {
-            "1": "Rice",
-            "2": "Chole Palak (Chickpeas and spinach)",
-            "3": "Paneer Tikka Masala (Marinated paneer with a spicy tomato gravy and peppers)",
-            "4": "Almond Saffron Halwa (Dessert made of cream of wheat, almonds and saffron)"
+            "1": "Tomatoes, Peas and Corn Spicy Rice",
+            "2": "Savory Indian Chickpeas",
+            "3": "Aloo Dum (Potato Curry)",
+            "4": "Cashew Raisin Halwa (Dessert made of cream of wheat, cashews and raisins)"
         },
         {
             "1": "Vegetable Biryani (Spiced rice with vegetables)",
@@ -36,11 +36,11 @@
     "pickup": [
         "NU Cook Hall Atrium 10.50-11.15am",
         "NU 303 E Chicago 10.55-11.05am",
-        "CNA Tower (300 W Randolph) 11.20-11.30am",
+        "Franklin and Randolph (300 W Randolph) 11.20-11.30am",
         "232 S Franklin St (near Willis Tower) 11.40-11.50am",
         "Jefferson at Monroe (near Presidential Towers) 12-12.10pm",
         "8th South Clark street (Behind Chase building) 12.20-12.30pm",
-        "300 E Randolph (outside the BCBS Building) 12.30-12.40pm",
+        "300 E Randolph (outside the BCBS Building) 11.50-12.00pm",
         "UChicago - S Ellis Ave - 12:15-12:30pm",
         "IIT - By Siegel Hall - 12:45-12:55pm"
     ]
