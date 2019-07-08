@@ -1,35 +1,35 @@
 {
-    "week": "June 30th",
+    "week": "July 7th",
     "items": [
         {
             "1": "Rice",
-            "2": "Dhaal Makhini (Whole black Indian lentils and kidney beans)",
-            "3": "Aloo Gobi (Seasoned cauliflower and potatoes)",
-            "4": "Walnut Vanilla Halwa (Dessert made of cream of wheat and walnuts)"
+            "2": "Channa (Chickpeas in spiced tomato gravy)",
+            "3": "Gauranga Potatoes ( Indian potato Salad)",
+            "4": "Blueberry Halwa (Dessert made of cream of wheat and blueberry)"
         },
         {
-            "1": "Rice and peas",
-            "2": "Malai Kofta (Veggie balls in tomato cream sauce)",
-            "3": "Vegetarian Korma (mixed vegetables in spiced sauce)",
-            "4": "Mango Saffron Halwa (Dessert made of cream of wheat, mango pulp and saffron) "
+            "1": "Spiced vegetable Rice",
+            "2": "Spiced Black Chickpeas",
+            "3": "Seasoned Broccoli and Paneer",
+            "4": "strawberry Halwa (Dessert made of cream of wheat and strawberry) "
         },
         {
-            "1": "Rice",
-            "2": "kadai Paneer (Home-made cheese cubes and peas in tomato cream sauce)",
-            "3": "Spiced potatoes and peppers",
+            "1": "Jeera Rice",
+            "2": "Gobi Matar Korma (Cauliflower and pea spiced tomato gravy)",
+            "3": "Chilli Channa ( Fried Chickpeas in spiced tomato gravy)",
+            "4": "Simply Wonderful (Milk Fudge)"
+        },
+        {
+            "1": "Yellow Rice and Peas",
+            "2": "Paneer Masala  (Home-made cheese cubes made in kashmiri style )",
+            "3": "Potatoes & Peppers in cashew-based curry ",
             "4": "Gulab Jamuns (Lightly fried milk balls soaked in a rose flavored syrup)"
-        },
-        {
-            "1": "Holiday",
-            "2": "",
-            "3": "",
-            "4": ""
         },
 
         {
-            "1": "Holiday",
-            "2": "",
-            "3": "",
+            "1": "Pulov Rice ( Vegetable Rice with soy nuggets)",
+            "2": "Caramel coconut laddoo (Sweet balls made of condensed milk & coconut powder)",
+            "3": "Cucumber Raita ( lightly spiced yogurt greated cucumber, and garnished with cilantro)",
             "4": ""
         }
     ],
