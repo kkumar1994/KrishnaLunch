@@ -1,36 +1,36 @@
 {
-    "week": "July 14th",
+    "week": "July 21st",
     "items": [
         {
             "1": "Rice",
-            "2": "Rajma (Kidney beans in spicy gravy)",
-            "3": "Seasoned Stir Fried vegetables",
-            "4": "Pineapple Halwa (Dessert made of cream of wheat and pineapple)"
+            "2": "Dhaal Makhini (Whole black Indian lentils and kidney beans)",
+            "3": "Aloo Gobi (Seasoned cauliflower and potatoes)",
+            "4": "Walnut Halwa (Dessert made of cream of wheat and walnut)"
         },
         {
-            "1": "Tava pulav(Rice and vegetables sauteed together with spices)",
-            "2": "Raita (Indian yogurt dip with diced tomato and spices)",
-            "3": "Carob  Halwa (Dessert made of cream of wheat and carob powder)",
-            "4": ""
+            "1": "Spiced Vegetable Rice",
+            "2": "Spicy Black Chickpeas",
+            "3": "Seasoned Broccoli and Paneer",
+            "4": "Strawberry Halwa (Dessert made of cream of wheat and strawberry)"
         },
         {
-            "1": "Rice and peas",
-            "2": "Malai Kofta (Veggie balls in tomato cream sauce)",
-            "3": "Vegetarian Korma (Mixed vegetables in a spiced sauce)",
-            "4": "Mango Saffron Halwa (Dessert made of cream of wheat, saffron and mango pulp)"
+            "1": "Jeera rice (Rice with Cumin Seeds)",
+            "2": "Gobi Matar Korma  (Cauliflower and pea spiced tomato gravy)",
+            "3": "Chilli Channa (Fried Chickpeas in spiced tomato gravy)",
+            "4": "Simply Wonderful (Milk Fudge)"
         },
         {
             "1": "Ricce",
-            "2": "Mutter Paneer (Home-made cheese cubes and peas in tomato cream sauce)",
-            "3": " Mixed Vegetables in Coconut Milk Curry",
+            "2": "Kadai paneer (Home-made cheese cubes in spicy, creamy tomato-based sauce)",
+            "3": "Spiced Potatoes and Peppers",
             "4": "Gulab Jamuns (Lightly fried milk balls soaked in a rose flavored syrup)"
         },
 
         {
-            "1": "Vegetable Biryani (Spiced rice with vegetables)",
-            "2": "Lightly Spiced Yogurt",
-            "3": "Tomato Pickle",
-            "4": "Carob Ladoos (Sweet balls made of coconut, carob and condensed milk)"
+            "1": "Tomatoes, Peas and Corn Spicy Rice",
+            "2": "Savory Indian Chickpeas",
+            "3": "Aloo Dum (Potato Curry)",
+            "4": "Cashew Raisin Halwa (Dessert made of cream of wheat, cashews and raisins)"
         }
     ],
     "pickup": [
