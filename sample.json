@@ -1,41 +1,40 @@
 {
-    "week": "Aug 25th",
+    "week": "sept 1st",
     "items": [
         {
-            "1": "Rice",
-            "2": "Channa (Chickpeas in spiced Tomato Gravy)",
-            "3": "Gauranga Potatoes (Indian potato salad)",
-            "4": "Blueberry Halwa (Dessert made of cream of wheat and Blueberries)"
+            "1": "Holiday for Labor day",
+            "2": "",
+            "3": "",
+            "4": ""
         },
         {
-            "1": "Spiced vegetable Rice",
-            "2": "Spicy Black Chickpeas",
-            "3": "Seasoned Broccoli and Paneer",
-            "4": "Strawberry Halwa (Dessert made of cream of wheat and Strawberries)"
-        },
-        {
-            "1": "Vegetable Briyani (Spiced rice with Vegetables)",
-            "2": "LIghtly Spiced Yoghurt",
-            "3": "Tomato Pickle",
-            "4": "Carob Ladoos (Sweet balls made of coconut, carob and condensed milk)"
+            "1": "Jeera Rice (Rice with cumin seeds)",
+            "2": "Gobi Matar Korma ( Cauliflower and pea spiced tomato gravy)",
+            "3": "Chilli Channa (Fried Chickpeas in spiced tomato gravy)",
+            "4": "Simply Wonderful (Milk Fudge)"
         },
         {
             "1": "Rice",
-            "2": "Mutter Paneer (Home-made cheese cubes and peas in tomato cream sauce)",
-            "3": "Mixed Vegetables in Coconut Milk Curry",
+            "2": "Kadai paneer (Home-made cheese cubes in spicy, creamy tomato-based sauce)",
+            "3": "Spiced Potatoes and Peppers",
             "4": "Gulab Jamuns (Lightly fried milk balls soaked in a rose flavored syrup)"
         },
         {
-            "1": "Rice",
-            "2": "Rajma (Kidney beans in spicy gravy)",
-            "3": "Seasoned Stir Fried Vegetables",
-            "4": "Pineapple Halwa (Dessert made of cream of wheat, almonds and pineapples)"
+            "1": "Rice and Peas",
+            "2": "Malai Kofta (Veggie balls in tomato cream sauce)",
+            "3": "Vegetarian Korma (Mixed vegetables in a spiced sauce)",
+            "4": "Mango Saffron Halwa (Dessert made of cream of wheat, saffron and mango pulp)"
+        },
+        {
+            "1": "Tava Pulov(Vegetable rice with soy nuggets)",
+            "2": "Caramel coconut laddoo (Sweet balls made of condensed milk & coconut powder)",
+            "3": "Cucumber Raita ( lightly spiced yogurt greated cucumber, and garnished with cilantro) ",
+            "4": ""
         }
     ],
     "pickup": [
         "NU Cook Hall Atrium 10.50-11.15am",
         "NU 303 E Chicago 10.55-11.05am",
-        "Franklin and Randolph (300 W Randolph) 11.20-11.30am",
         "232 S Franklin St (near Willis Tower) 11.40-11.50am",
         "Jefferson at Monroe (near Presidential Towers) 12-12.10pm",
         "8th South Clark street (Behind Chase building) 12.20-12.30pm",
