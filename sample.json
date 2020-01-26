@@ -1,36 +1,36 @@
 {
-    "week": "January 19th",
+    "week": "January 26th",
     "items": [
         {
-            "1": "HOLIDAY",
-            "2": "",
-            "3": "",
-            "4": ""
+            "1": "Rice",
+            "2": "Rajma (Kidney beans in spicy gravy)",
+            "3": "Seasoned Stir Fried Vegetables",
+            "4": "Pineapple Halwa (Desset made of cream of wheat and pineapples)"
 
         },
         {
-            "1": "Rice",
-            "2": "Channa (Chickpeas in spiced tomato gravy)",
-            "3": "Gauranga Potatoes (Indian potato salad)",
-            "4": "Blueberry Halwa (Dessert made of cream of wheat and blueberries)"
+            "1": "Spiced vegetable Rice",
+            "2": "Spicy Black Chickpeas",
+            "3": "Seasoned Broccoli and paneer",
+            "4": "Strawberry Halwa (Dessert made of cream of wheat and strawberries)"
         },
         {
-            "1": "Yellow Rice and peas",
-            "2": "Paneer Masala  (Home-made cheese cubes made in kashmiri style)",
-            "3": "Potatoes & Peppers in cashew-based curry ",
+            "1": "Rice",
+            "2": "Kadai Paneer (Home-made cheese cubes in spicy, creamy tomato-based sauce)",
+            "3": "Spiced potatoes and peppers",
             "4": "Gulab Jamuns (Lightly fried milk balls soaked in a rose flavored syrup)"
         },
         {
-            "1": "Rice",
-            "2": "Dhaal Makhini (Whole black Indian lentils and kidney beans)",
-            "3": "Aloo Gobi (Seasoned cauliflower and potatoes)",
-            "4": "Walnut Vanilla Halwa (Dessert made of cream of wheat and walnuts)"
+            "1": "Rice and peas",
+            "2": "Malai Kofta (Veggie balls in tomato cream sauce)",
+            "3": "Vegetarian Korma (Mixed vegetables in spiced sauce)",
+            "4": "Mango Saffron Halwa (Dessert made of cream of wheat, saffron and mango pulp)"
         },
         {
-            "1": "Jeera Rice (Rice with cumin seeds)",
-            "2": "Gobi Matar Korma  (Cauliflower and pea spiced tomato gravy)",
-            "3": "Chilli Channa ( Fried Chickpeas in spiced tomato gravy)",
-            "4": "Simply Wonderful (Milk Fudge)"
+            "1": "Tomatoes, Peas and Corn Spicy Rice",
+            "2": "Savory Indian Chickpeas",
+            "3": "Aloo Dum (Potato Curry)",
+            "4": "Cashew Raisin Halwa (Desserts made of cream of wheat, cashews and raisins)"
         }
     ],
     "pickup": [
